@@ -4,43 +4,41 @@
 
 ###
 
-<div align="center">
+
+###
+
+<h2 align="left">💻 Estudante de Ciência da Computação </h2>
+
+###
+
+<h5 align="left">👋 Ex-estudante de Medicina Veterinária, agora mergulhando na Ciência da Computação. Apaixonado por tecnologia e sempre em busca de aprender e criar soluções inovadoras. </h5> 
+
+#
+<h3 align="left">📊 Minhas Estatísticas</h3>
+
+
+ <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BrenoRuggeri&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
 
-<h2 align="left">💻 Developing skills to become a full-stack developer</h2>
 
-###
 
-<h4 align="left">Studing Front-end</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h4 align="left">Studing Back-end</h4>
+<h3 align="left">🧠 Linguagens Que Estou Aprendendo</h3>
+#
+<h4 align="left"></h4>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computer">
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"/>
   
 </div>
 
 ###
 
-<h4 align="left">Studing Databases</h4>
 
 ###
 
@@ -52,19 +50,7 @@
 
 <h4 align="left">Workstation</h4>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
 
 <h2 align="left">🌐 Contact</h2>
 
