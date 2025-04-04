@@ -1,6 +1,3 @@
-<div align="center">
-  <img style="margin-bottom:100px" width=100% src="https://imgur.com/LdnpCCI.png"
-</div>
 <h2 align="left">💻 Estudante de Ciência da Computação</h2>
 
 ###
@@ -10,7 +7,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/brenoruggeri" target="_blank">
+  <a href="https://www.linkedin.com/in/brenoruggeri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
@@ -22,7 +19,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRuggeri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -45,9 +43,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/BrenoRuggeri/BrenoRuggeri/output/snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img height="90" width="100%" src="https://imgur.com/rkpkFHe.png"  />
-</div>
-
-
+###
