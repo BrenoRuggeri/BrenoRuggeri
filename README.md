@@ -1,10 +1,10 @@
+![hi, i’m](https://github.com/user-attachments/assets/b7c4b3eb-3cb1-433c-a800-f77a9dd91f1e)
+
 <h2 align="left">💻 Estudante de Ciência da Computação</h2>
 
 ###
 
 <p align="left">👋 Ex-estudante de Medicina Veterinária, agora mergulhando na Ciência da Computação. Apaixonado por tecnologia e sempre em busca de aprender e criar soluções inovadoras.</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/brenoruggeri/" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRuggeri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRuggeri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
@@ -43,6 +43,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BrenoRuggeri/BrenoRuggeri/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=BrenoRuggeri&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient%20%20&section=footer&textBg=false"/>
+</div>
 
 ###
