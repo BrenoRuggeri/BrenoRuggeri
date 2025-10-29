@@ -27,8 +27,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoRuggeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dark&hide_border=true&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=3" height="135" alt="languages graph"  />
 </div>
 
 ###
@@ -41,6 +40,10 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
