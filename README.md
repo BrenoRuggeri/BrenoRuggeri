@@ -1,6 +1,6 @@
 ![hi, i’m](https://github.com/user-attachments/assets/b7c4b3eb-3cb1-433c-a800-f77a9dd91f1e)
 
-<h1 align="left">💻 Estudante de Backend | Java & Spring Boot</h1>
+<h1 align="left">💻 Estudante de Ciência da Computação | Backend</h1>
 
 <h4 align="left">
 Olá! Meu nome é <b>Breno Ruggeri</b>, sou estudante de <b>Ciência da Computação</b> (4º semestre) em busca de oportunidades na área de <b>desenvolvimento backend</b>.  
