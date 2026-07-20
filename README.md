@@ -1,59 +1,70 @@
 ![hi, i’m](https://github.com/user-attachments/assets/b7c4b3eb-3cb1-433c-a800-f77a9dd91f1e)
 
-<h1 align="left">💻 Estudante de Ciência da Computação</h1>
+<h1 align="left">💻 Estudante de Backend | Java & Spring Boot</h1>
 
 <h4 align="left">
-Olá! Meu nome é <b>Breno</b>, sou estudante de <b>Ciência da Computação</b> e atualmente estou no <b>segundo semestre</b> da graduação.  
-Tenho grande interesse na área de <b>desenvolvimento backend</b> e venho focando meus estudos principalmente em <b>C</b>, <b>Java</b>, <b>JavaScript</b> e <b>SQL</b>.  
-Estou sempre buscando aprender coisas novas, desenvolver projetos e evoluir como programador.  
-Este repositório reúne parte da minha jornada e das habilidades que venho construindo ao longo do tempo. 🚀
+Olá! Meu nome é <b>Breno Ruggeri</b>, sou estudante de <b>Ciência da Computação</b> (4º semestre) em busca de oportunidades na área de <b>desenvolvimento backend</b>.  
+Foco meus estudos principalmente em <b>Java</b>, <b>Spring Boot</b> e <b>SQL/PostgreSQL</b>, buscando sempre aplicar boas práticas de arquitetura e estruturas de dados nos meus projetos.  
+Mantenho também um <b>homelab</b> pessoal em Ubuntu Server, onde estudo e experimento conceitos de infraestrutura (Linux, Docker, redes) fora da faculdade.  
+Este repositório reúne os projetos e habilidades que venho construindo ao longo dessa jornada. 🚀
 </h4>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/brenoruggeri/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/BrenoRuggeri" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="github logo"  />
   </a>
 </div>
 
+## 🧩 Stack Técnica
+
+**Linguagens**
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" />
+<br>
 <br>
 
-<h3 align="left">📊 Minhas Estatísticas</h3>
+**Backend**
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo" />
+<br>
+<br>
+
+**Banco de Dados**
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgres logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" />
+<br>
+<br>
+
+**Ferramentas & Ambiente**
+<br>
+<br>
+<img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" />
+<img width="14" />
+<img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellij logo" />
 
 <br>
+
+## 📊 Minhas Estatísticas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BrenoRuggeri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=2" height="140" alt="languages graph"  />
-</div>
-
-<br>
-
-<h3 align="left">🧠 Linguagens Que Estou Aprendendo</h3>
-
-<br>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-</div>
-
-<br>
-
-<h3 align="left">🧩 Tecnologias e Ferramentas</h3>
-
-<br>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellij logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoRuggeri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
 <br>
